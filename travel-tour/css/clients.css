@@ -77,6 +77,6 @@ body {
 
 @media (max-width: 576px) {
   .swiper-slide img {
-    max-width: 70%; /* Smallest on extra small screens */
+    max-width: 60%; /* Smallest on extra small screens */
   }
 }
